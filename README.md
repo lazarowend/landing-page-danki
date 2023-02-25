@@ -1,2 +1,2 @@
 # landing-page-danki
-Esta é minha landing page com template da Danki Code onde utilizei o responsivo com HTML e CSS
+Esta landing page tem o template da danki code onde ultilizo HTML, CSS com desing responsivo para celular com menu mobile via Javascript, também com uma interação do google maps no site.
