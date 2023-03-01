@@ -25,7 +25,7 @@ header{
 	padding:40px 2%;
 	background-size: cover;
 	background-position: center;
-	background-image: url("imagens/capa.png");
+	background-image: url('imagens/capa.png');
 	font-weight: 300;
 }
 
@@ -37,7 +37,7 @@ nav.mobile-menu{
 	display: none;
 	width: 32px;
 	height: 32px;
-	background-image: url("imagens/menu-aberto.png");
+	background-image: url('imagens/menu-aberto.png');
 	background-size: 100% 100%;
 	cursor: pointer;
 }
