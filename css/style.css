@@ -25,7 +25,7 @@ header{
 	padding:40px 2%;
 	background-size: cover;
 	background-position: center;
-	background-image: url(imagens/capa.png);
+	background-image: url("imagens/capa.png");
 	font-weight: 300;
 }
 
