@@ -11,5 +11,4 @@ function Mobile() {
         ul.style.display = 'block'
         b = true
     };
-    console.log(b)
 }

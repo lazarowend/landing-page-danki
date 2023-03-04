@@ -25,7 +25,7 @@ header{
 	padding:40px 2%;
 	background-size: cover;
 	background-position: center;
-	background-image: url('./imagens/capa.png');
+	background-image: url('/imagens/capa.png');
 	font-weight: 300;
 }
 
@@ -37,7 +37,7 @@ nav.mobile-menu{
 	display: none;
 	width: 32px;
 	height: 32px;
-	background-image: url('./imagens/menu-aberto.png');
+	background-image: url('/imagens/menu-aberto.png');
 	background-size: 100% 100%;
 	cursor: pointer;
 }
@@ -74,7 +74,7 @@ header .logo{
 	float: left;
 	width: 64px;
 	height: 64px;
-	background-image: url('./imagens/logo.png');
+	background-image: url('/imagens/logo.png');
 	background-size: 100% 100%;
 	position: relative;
 	top: -10px;
@@ -173,7 +173,7 @@ section.sessao1 .container{
 	position: relative;
 	top:-30px;
 	height: 430px;
-	background-image: url('./imagens/device.png');
+	background-image: url('/imagens/device.png');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
@@ -270,7 +270,7 @@ section.sessao1 .container{
 	float: left;
 	width: 40px;
 	height: 40px;
-	background-image: url('imagens/perfil.png');
+	background-image: url('/imagens/perfil.png');
 	background-size: contain;
 	border-radius: 50%;
 	position: relative;
