@@ -23,7 +23,8 @@ header {
 	height: 90vh;
 	min-height: 800px;
 	font-weight: 300;
-	background-color: #835Fa7;
+	background-image: url('../imagens/capa.png');
+	background-size: cover;
 	padding: 40px 2%;
 }
 
